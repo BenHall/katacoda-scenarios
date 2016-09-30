@@ -1,5 +1,5 @@
 Commands like
 
-`go build`{execute}
+`go build`{{execute}}
 
-`go get`{execute}
+`go get`{{execute}}
