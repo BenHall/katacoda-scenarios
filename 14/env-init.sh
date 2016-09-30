@@ -1,1 +1,1 @@
-git clone  --depth 1 https://github.com/jfrazelle/binctr.git .
+git clone  --depth 1 https://github.com/jessfraz/binctr.git .
