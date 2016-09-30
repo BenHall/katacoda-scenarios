@@ -1,5 +1,5 @@
 { 
-    "live"; false,
+    "live": false,
     "title": "Running Golang development environment inside Docker",
     "description": "Learn how to run your Golang development environment inside a Docker container",
     "details": {
