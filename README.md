@@ -1,6 +1,6 @@
 #Interactive Katacoda Scenarios
 
-[![](http://sheilds.katacoda.com/katacoda/benhall/count.svg)](https://www.katacoda.com/ben_hall "Get your profile on Katacoda.com")
+[![](http://sheilds.katacoda.com/katacoda/ben_hall/count.svg)](https://www.katacoda.com/ben_hall "Get your profile on Katacoda.com")
 
 Visit https://www.katacoda.com/ben_hall to view and take the interactive scenarios
 
