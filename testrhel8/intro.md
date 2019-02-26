@@ -1,3 +1,0 @@
-## Hello World
-
-*Welcome* to the scenario...
