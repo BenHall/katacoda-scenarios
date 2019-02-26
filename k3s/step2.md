@@ -1,6 +1,6 @@
 Using the k3s CLI, it's possible to access `kubectl` and inspect the cluster configuration.
 
-`k3s kubectl cluster-info`{{execute}}
+`k3s kubectl cluster-info`{{execute T2}}
 
 `k3s kubectl get node`{{execute T2}}
 
