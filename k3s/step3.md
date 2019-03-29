@@ -4,4 +4,4 @@ Workloads can be scheduled via the CLI.
 
 `k get pods`{{execute T2}}
 
-The pods are run via containerd meaning `docker ps`{{execute}} is empty. However, the processes are running `ps aux | grep app`{{execute}}
+The pods are run via containerd and runc meaning `docker ps`{{execute}} is empty. However, the processes are running `ps aux | grep app`{{execute}}
