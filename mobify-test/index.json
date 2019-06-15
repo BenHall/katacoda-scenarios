@@ -18,9 +18,12 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "editor-terminal",
+    "showdashboard": true,
+    "dashboards": [{"name": "Mobify", "port": 3443}]
   },
   "backend": {
-    "imageid": "mobify"
+    "imageid": "mobify",
+    "port": 3443
   }
 }
