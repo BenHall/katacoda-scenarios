@@ -1,6 +1,6 @@
 {
 	"backend": {
-		"imageid": "coreos"
+		"imageid": "ubuntu"
 	},
 	"environment": {
 		"uilayout": "terminal",
