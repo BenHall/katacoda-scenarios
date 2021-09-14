@@ -1,0 +1,24 @@
+{
+  "title": "Hello Quiz Scenario",
+  "description": "",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "",
+      "text": "step1.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "text"
+  },
+  "backend": {
+  }
+}
